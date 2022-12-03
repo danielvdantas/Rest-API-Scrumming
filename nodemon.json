@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "MYSQL_USER": "master",
+        "MYSQL_PASSWORD": "Raul2307",
+        "MYSQL_DATABASE": "scrumming",
+        "MYSQL_HOST": "localhost",
+        "MYSQL_PORT": 3306
+    }
+}
